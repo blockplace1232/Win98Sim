@@ -18,3 +18,5 @@ Note: This does not work for iPhone, sorry!
 PS. Windows 98 Simulator may need acess to your Files (So you can look at them in the app) and app access (So you can launch them through the app itself.) Click allow or deny depending on if you want to use those features or not. And lastly, this is a simulator, not an emulator so you cannot run Win16 or 32 Programs. 
 
 Thanks for using this repository!
+
+Note: If you want me to take this down LR-SOFT send me an email at blockplace1232@gmail.com and I will be happy to reply.
